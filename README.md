@@ -8,10 +8,13 @@ GitHub Pages</br>
 JavaScript框架</br>
 Gatsby</br>
 React</br>
+graphql</br>
 React-router</br>
 React-redux</br>
 styled-components</br>
 Web框架</br>
+express</br>
+nodejs</br>
 Ruby on Rails</br>
 缓存工具</br>
 Varnish</br>
