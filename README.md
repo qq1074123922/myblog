@@ -1,28 +1,29 @@
 # myblog
 ======================= 
 机器学习、大数据、全栈开发 [个人技术博客分享](https://qq1074123922.github.io/myblog)
-直接 npm run deploy 就可以部署了
-感谢  
-博客
-GitHub Pages
-JavaScript框架
-Gatsby
-React
-React-router 
-React-redux 
-styled-components
-Web框架
-Ruby on Rails
-缓存工具
-Varnish
-编程语言
-Ruby
-内容分发网络
-Fastly
-GitHub Pages
-构建/持续集成系统
-webpack
-开发工具
-styled-components
-来自github：https://github.com/qq1074123922提供
+======================= 
+直接 npm run deploy 就可以部署了</br>
+感谢</br>
+博客</br>
+GitHub Pages</br>
+JavaScript框架</br>
+Gatsby</br>
+React</br>
+React-router</br>
+React-redux</br>
+styled-components</br>
+Web框架</br>
+Ruby on Rails</br>
+缓存工具</br>
+Varnish</br>
+编程语言</br>
+Ruby</br>
+内容分发网络</br>
+Fastly</br>
+GitHub Pages</br>
+构建/持续集成系统</br>
+webpack</br>
+开发工具</br>
+styled-components</br>
+来自github：https://github.com/qq1074123922提供</br>
 
