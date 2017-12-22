@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{348:function(e,t){e.exports={data:{allIndexJson:{edges:[{node:{id:"1",title:"第一篇博客标题"}},{node:{id:"2",title:"第二篇博客标题"}},{node:{id:"3",title:"第三篇博客标题"}},{node:{id:"4",title:"第四篇博客标题"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-f579502ad3e61373e51b.js.map
