@@ -27,4 +27,4 @@ GitHub Pages</br>
 webpack</br>
 开发工具</br>
 styled-components</br>
-来自github：https://github.com/qq1074123922提供</br>
+来自github提供：https://github.com/qq1074123922</br>
